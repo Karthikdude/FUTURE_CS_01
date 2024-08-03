@@ -22,10 +22,10 @@ This is a simple Flask application that demonstrates two-factor authentication (
 ## Installation
 
 1. **Clone the repository:**
-
+ 
    ```bash
-   git clone https://github.com/Karthikdude/2FA
-   cd 2FA
+   git clone https://github.com/Karthikdude/FUTURE_CS_01
+   cd FUTURE_CS_01
    ```
 
 2. **Create a virtual environment (optional but recommended):**
