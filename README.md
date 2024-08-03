@@ -90,4 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [qrcode](https://pypi.org/project/qrcode/) - Library for QR code generation
 ```
 
-Feel free to adjust any sections according to your needs or add additional information relevant to your project!
